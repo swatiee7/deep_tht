@@ -1,0 +1,247 @@
+body {
+    line-height: 22px;
+    letter-spacing: 0.02em;
+}
+
+.main-heading {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight:800;
+    font-size: 28px;
+    line-height: 42px;
+    letter-spacing: 0.02em;
+    color: #0029FF;
+    position: absolute;
+    width: 756px;
+    height: 32px;
+    left:47px;
+    top: 108px;
+
+}
+
+.task-submit {
+    position: absolute;
+    top: 108px;
+    background-color: #0029FF;
+    border-radius: 8px;
+    padding: 8px 20px 8px 20px;
+    font-family: 'Poppins';
+    font-size: 12px;
+    right: 130px;
+}
+
+
+.one {
+    position: absolute;
+    width: 125px;
+    height: 750px;
+    left: 0px;
+    background: #FDFDFD;
+    border-radius: "0px 30px 0px 0px";
+}
+
+.card-body {
+    background-color: white;
+}
+
+.box-one {
+    position: absolute;
+    border: 1px solid #3854dd;
+    width: 58px;
+    height: 58px;
+    left: 32px;
+    top: 126px;
+    border-radius: 19px;
+
+}
+
+.explore {
+    position: absolute;
+    width: 1600px;
+    height: 135px;
+    left: 187px;
+    top: 187px;
+    background: #E9ECEF;
+    border-radius: 5px;
+    padding: 25px;
+    font-weight: 500;
+
+}
+
+.e-text {
+    font-size: 19px;
+    font-weight: 500;
+    text-align: left;
+    letter-spacing: 1;
+    margin-top:15px;
+
+}
+
+.two {
+    position: absolute;
+    width: 405px;
+    height: 94px;
+    left: 1685px;
+    top: 280px;
+    transform: rotate(-90deg);
+    border-radius: 30px 30px 0px 0px;
+}
+
+
+.closebtn {
+    position: absolute;
+    left: 90%;
+    top: 15%;
+
+
+}
+
+.three {
+    position: absolute;
+    width: 580px;
+    left: 350px;
+    top: 397px;
+    height:600px;
+}
+
+.four {
+    position: absolute;
+    width: 580px;
+    right: 350px;
+    top: 396px;
+    height: 600px;
+}
+
+.subthreadone {
+    position: absolute;
+    right: 50.5%;
+    top: 35.46%;
+    bottom: 62.94%;
+    border-radius: 10px;
+    width: 230px;
+    font-size: x-small;
+    text-align: left;
+
+}
+
+.subthreadtwo {
+    text-align: left;
+    position: absolute;
+    left: 50.5%;
+    top: 35.46%;
+    bottom: 62.94%;
+    border-radius: 10px;
+    width: 230px;
+    font-size: x-small;
+
+}
+
+.fm-one {
+    position: absolute;
+    width: 186px;
+    left: 5.5%;
+    top: 170.46%;
+}
+
+.row.icons {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 367px;
+    right:70px;
+}
+
+.catlogone {
+    position: absolute;
+    left: 50.38%;
+    right: 24.31%;
+    top: 60.89%;
+    width: 23px;
+
+
+}
+
+.catlogtwo {
+    position: absolute;
+    right: 21.31%;
+    top: 60.89%;
+    width: 15px;
+
+}
+
+.subthread {
+    position: absolute;
+    left: 1.38%;
+    top:70.89%;
+    width: 15px;
+}
+.lastone{
+    position: absolute;
+    top:79.46%;
+    bottom: 62.94%;
+    border-radius: 10px;
+    width: 570px;
+    font-size: x-small;
+    text-align: left;
+    left:1px;
+
+}
+
+.second-set{
+    left: 350px;
+    position:absolute;
+    width:580px;
+    top:1035px;
+    z-index:1;
+    height:580px;
+
+}
+.categorydiv{
+    position:absolute;
+    top:535%;
+    left:12px;
+  
+    width:94%;
+    z-index:1;
+}
+
+.paragraph{
+    border:1px solid rgb(250, 247, 247);
+    background-color: rgb(201, 199, 199);
+    width:55px;
+    font-size: x-small;
+    color:black;
+    border-radius: 5px;
+    padding:0px 1px 0px 0px;
+    position:absolute;
+    left:170px;
+    top:310px;
+
+}
+.third-set{
+    position: absolute;
+    top:1034px;
+    right:350px;
+    width:580px;
+    height:580px;
+}
+.seemore{
+    position: absolute;
+    right:50px;
+    font-size: small;
+}
+.fontone{
+    position: absolute;
+    right:30px;
+}
+
+.halfcard{
+    position: absolute;
+    z-index:1;
+    width:350px;
+    height:100%;
+    border:1px solid white;
+    background-color: white;
+    border-radius: 0px 20px 0px 0px;
+
+}
