@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deep_tht/static/css/main.14ee76cd.css",
+    "main.js": "/deep_tht/static/js/main.901efd00.js",
+    "static/js/787.ce9656bf.chunk.js": "/deep_tht/static/js/787.ce9656bf.chunk.js",
+    "index.html": "/deep_tht/index.html",
+    "main.14ee76cd.css.map": "/deep_tht/static/css/main.14ee76cd.css.map",
+    "main.901efd00.js.map": "/deep_tht/static/js/main.901efd00.js.map",
+    "787.ce9656bf.chunk.js.map": "/deep_tht/static/js/787.ce9656bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ee76cd.css",
+    "static/js/main.901efd00.js"
+  ]
+}
